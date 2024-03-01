@@ -1,1 +1,1 @@
-wed: node server.ts
+wed: nodemon server.ts
