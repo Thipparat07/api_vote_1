@@ -1,1 +1,1 @@
-wed: node index.js
+wed: node server.ts
