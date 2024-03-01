@@ -5,3 +5,5 @@ export const router = express.Router();
 // router.get('/', (req, res)=>{
 //     res.send('Method Get in index.ts');
 // });
+
+console.log('hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh');
