@@ -1,1 +1,1 @@
-wed: node dist/server.js
+wed: node server.js
