@@ -1,1 +1,1 @@
-wed: npm start
+wed: bin/Api_ProjectVote
