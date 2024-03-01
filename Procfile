@@ -1,1 +1,1 @@
-wed: npm run start
+wed: node server.ts
