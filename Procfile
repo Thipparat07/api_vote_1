@@ -1,1 +1,1 @@
-wed: node wed.ts
+wed: npm start
