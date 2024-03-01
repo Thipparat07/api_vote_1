@@ -1,1 +1,1 @@
-wed: node dist/server.js
+wed: npx nodemon server.ts
