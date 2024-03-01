@@ -1,1 +1,1 @@
-wed: bin/Api_ProjectVote
+wed: node start
