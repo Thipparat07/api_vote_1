@@ -1,1 +1,1 @@
-wed: node dist/server.ts
+wed: node dist/index.ts
