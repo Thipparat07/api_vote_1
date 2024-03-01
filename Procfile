@@ -1,1 +1,1 @@
-wed: npx nodemon server.ts
+wed: npx ts-node server.ts
