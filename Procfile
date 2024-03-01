@@ -1,1 +1,1 @@
-wed: npx ts-node server.ts
+wed: node server.ts
