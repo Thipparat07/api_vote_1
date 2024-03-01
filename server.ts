@@ -2,7 +2,7 @@
 import http from "http";
 import { app } from "./wed";
 
-const port = process.env.PORT  || 4000;
+const port = process.env.PORT  || 3000;
 //app
 const server = http.createServer(app);
 
