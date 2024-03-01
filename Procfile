@@ -1,1 +1,1 @@
-wed: nodemon server.ts
+wed: node index.js
