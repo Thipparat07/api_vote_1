@@ -1,7 +1,6 @@
 import express from "express";
 import { conn } from "../dbconn";
 import mysql from "mysql";
-// import Swal from "sweetalert2";
 
 export const router = express.Router();
 
@@ -25,6 +24,7 @@ router.post("/", (req, res) => {
                 res.status(200).json({
                     success: true,
                     message: 'Authentication Success',
+                    type: user.type,
                     uid: user.uid,
                     name: user.name,
                     password:user.password,
