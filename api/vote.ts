@@ -36,7 +36,7 @@ router.get("/", (req, res) => {
 
 router.get("/:iid", (req, res) => {
     const iid = req.params.iid;
-    console.log(iid);
+    // console.log(iid);
   
     // เช็คว่า iid ที่ถูกส่งมามีค่าหรือไม่
     if (!iid) {

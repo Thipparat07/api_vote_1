@@ -30,7 +30,7 @@ router.post("/", (req, res) => {
                     password:user.password,
                     
                 });
-                console.log(user);
+                // console.log(user);
             } else {
                 res.json({
                     success: false,
